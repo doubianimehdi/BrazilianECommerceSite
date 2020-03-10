@@ -10,4 +10,5 @@ Le code fourni doit respecter la convention PEP8, pour être utilisable par Olis
 Pour des raisons de confidentialité, Olist ne fournit pas beaucoup de données, à vous de fouiller dans celles dont vous disposez et de créer les meilleures features pour les exploiter.
 
 Le travail effectué est disponible ici : https://github.com/doubianimehdi/BrazilianECommerceSite/blob/master/Projet%204%20Olist.ipynb
+
 Le compte rendu est disponible ici : https://github.com/doubianimehdi/BrazilianECommerceSite/blob/master/BrazilianECommerce.pptx
